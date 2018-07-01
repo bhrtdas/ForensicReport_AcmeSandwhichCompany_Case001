@@ -1,0 +1,13 @@
+The Problem
+
+Network sensors at Acme Sandwhich company detected a possible Windows shell being sent over TCP. The owner of Acme Sandwhich is concerned that his super secret BLT recipe was stolen. 
+
+The computer that stores the recipe is not accessible from the external network. 
+
+The Assignment
+
+Identify if any of the systerms were compromised
+Map the network topology
+Determine if the secret sandwhich recipe was stolen
+Make recommendations on security practices 
+
